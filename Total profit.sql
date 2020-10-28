@@ -1,0 +1,1 @@
+select sum(profit ) from orders o 
