@@ -1,0 +1,1 @@
+select sum(profit )/sum(sales ) as profit_ratio from orders o 
