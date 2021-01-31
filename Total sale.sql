@@ -1,1 +1,0 @@
-select sum(sales )  from orders o 
